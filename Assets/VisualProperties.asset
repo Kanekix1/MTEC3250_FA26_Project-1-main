@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8fb8ccb1a084c59a86ad73efd8ee89, type: 3}
+  m_Name: VisualProperties
+  m_EditorClassIdentifier: Assembly-CSharp::VisualProperties
+  backgroundImage: {fileID: 0}
+  playerVisuals:
+    playerStartingDirection: 0
+    animController: {fileID: 0}
+    defaultSprite: {fileID: 0}
+    color: {r: 0, g: 0, b: 0, a: 0}
+    spriteColorOverride: 0
+    impactColor: {r: 0, g: 0, b: 0, a: 0}
+  projectileVisuals:
+    animController: {fileID: 0}
+    sprite: {fileID: 0}
+    color: {r: 0, g: 0, b: 0, a: 0}
+    spriteColorOverride: 0
+    enableTrail: 0
+  tileVisuals:
+    animController: {fileID: 0}
+    sprite: {fileID: 0}
+    color: {r: 0, g: 0, b: 0, a: 0}
+    spriteColorOverride: 0
+  crateVisuals:
+    animController: {fileID: 0}
+    sprite: {fileID: 0}
+    color: {r: 0, g: 0, b: 0, a: 0}
+    spriteColorOverride: 0
+  trapVisuals:
+    animController: {fileID: 9100000, guid: 17f54a8dc40be1f4787d2c64df52c5ed, type: 2}
+    sprite: {fileID: 4594485043209850717, guid: 358091564344b344ca56e5387ed26fa4, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    spriteColorOverride: 1
+  blockVisuals:
+    animController: {fileID: 0}
+    sprite: {fileID: 0}
+    color: {r: 0, g: 0, b: 0, a: 0}
+    spriteColorOverride: 0
+  goalVisuals:
+    animController: {fileID: 0}
+    sprite: {fileID: 0}
+    color: {r: 0, g: 0, b: 0, a: 0}
+    spriteColorOverride: 0
